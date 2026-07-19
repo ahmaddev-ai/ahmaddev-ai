@@ -58,7 +58,10 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ahmaddev-ai&theme=dark&border_radius=5" height="220"/>
+<img
+  src="https://streak-stats.demolab.com?user=ahmaddev-ai&theme=dark&border_radius=5&cache_seconds=3600"
+  height="220"
+/>
 
 </div>
 

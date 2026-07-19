@@ -57,20 +57,10 @@
 
 <div align="center">
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmaddev-ai&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddev-ai&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmaddev-ai&theme=github-dark&hide_border=true"/>
+<img
+  src="https://streak-stats.demolab.com?user=ahmaddev-ai&theme=dark&hide_total_contributions=true&border_radius=5"
+  height="220"
+/>
 
 </div>
 
